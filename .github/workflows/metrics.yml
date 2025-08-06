@@ -1,16 +1,19 @@
 name: Metrics
+
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule:
+    - cron: "0 0 * * *" # Ejecuta todos los días a la medianoche UTC
   workflow_dispatch:
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Metrics embed
+        uses: lowlighter/metrics@latest
         with:
-          # Reemplaza por tu nombre de usuario
           user: zeika-coder
+          token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, repositories
           config_timezone: America/Mexico_City
