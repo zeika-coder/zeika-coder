@@ -20,6 +20,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zeika-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📅 Calendario de commits
+
+![Metrics](https://github.com/zeika-coder/zeika-coder/blob/master/github-metrics.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zeika-coder&icon=5&color=4)](https://visitcount.itsvg.in)
