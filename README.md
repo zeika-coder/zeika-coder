@@ -1,59 +1,162 @@
+<div align="center">
+
 # Andrea Solórzano
 
-### Full Stack Senior · Software Engineer · AI & SaaS
+### Ingeniera de Software · Full Stack · Inteligencia Artificial
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andrea-solorzano-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/zeika-coder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+**Construyo software escalable, productos SaaS y soluciones impulsadas por IA.**
 
-> Full Stack Developer especializado en construir aplicaciones web, APIs y plataformas SaaS de producción, con enfoque en arquitectura de software, escalabilidad y calidad de código.
+<br />
 
-Actualmente enfocado en **Full Stack Development, arquitectura de software e inteligencia artificial**, construyendo soluciones que combinan productos digitales, automatización y sistemas empresariales.
+[LinkedIn](https://www.linkedin.com/in/andrea-solorzano-dev/) ·
+[GitHub](https://github.com/zeika-coder)
 
----
+<br />
 
-## 🚀 Sobre mí
+`🇲🇽 México`   `💻 Ingeniería de Software`   `☁️ SaaS`   `🤖 IA`
 
-* 💻 **7+ años** desarrollando software y sistemas de producción.
-* 🧩 Experiencia en **Frontend, Backend, APIs y arquitectura de software**.
-* 🏗️ Diseño de aplicaciones utilizando principios de **Clean Architecture, DDD y SOLID**.
-* ☁️ Experiencia trabajando con **cloud, Docker, CI/CD y despliegues en producción**.
-* 🔐 Desarrollo de sistemas con **RBAC, multi-tenancy y seguridad por diseño**.
-* 🤖 Explorando y desarrollando soluciones con **IA aplicada al software**.
-* 📱 Experiencia desarrollando aplicaciones web y móviles.
-* 📚 Actualmente fortaleciendo mi formación en **Inteligencia Artificial**.
+</div>
 
 ---
 
-## 🛠️ Stack tecnológico
+## Sobre mí
+
+Soy **Ingeniera de Software Full Stack** enfocada en construir aplicaciones
+de producción, plataformas SaaS y sistemas escalables.
+
+Me gusta trabajar en todo el ciclo de desarrollo:
+
+**Arquitectura → Backend → Frontend → Datos → Cloud → Producto**
+
+Actualmente estoy profundizando en **Inteligencia Artificial**, arquitectura
+de software y desarrollo de productos que incorporan IA de forma práctica.
+
+---
+
+## En qué trabajo
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Desarrollo de productos
+
+Construyo productos digitales desde la arquitectura inicial hasta su
+despliegue y evolución en producción.
+
+**Web · Mobile · APIs · SaaS**
+
+</td>
+
+<td width="50%">
+
+### 🏗️ Arquitectura de software
+
+Diseño sistemas mantenibles y preparados para crecer, con límites claros
+entre dominios y responsabilidades.
+
+**DDD · Clean Architecture · SOLID**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Sistemas empresariales
+
+Experiencia desarrollando aplicaciones empresariales, APIs, procesos
+complejos, autenticación, autorización y bases de datos.
+
+**PostgreSQL · Redis · Docker · CI/CD**
+
+</td>
+
+<td width="50%">
+
+### 🤖 Inteligencia Artificial
+
+Exploro aplicaciones prácticas de IA dentro de productos de software,
+automatización y herramientas para desarrolladores.
+
+**LLM · Agentes · Automatización · IA aplicada**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Proyectos públicos
+
+### 🏋️ Suna
+
+**Plataforma SaaS de nutrición y entrenamiento**
+
+Aplicación orientada a nutriólogos y entrenadores para gestionar clientes,
+planes de entrenamiento y planes de alimentación.
+
+**Tecnologías**
+
+`React Native` `Expo` `TypeScript` `Zustand` `NativeWind`
+
+---
+
+### ✦ Santrea Studios
+
+**Software y productos digitales**
+
+Desarrollo de soluciones digitales para empresas y emprendimientos.
+
+* Aplicaciones web
+* Aplicaciones móviles
+* E-commerce
+* Inteligencia Artificial
+* Software personalizado
+* Productos SaaS
+
+---
+
+## Experiencia técnica
+
+Parte de mi experiencia profesional corresponde a **proyectos empresariales
+confidenciales**, por lo que no publico nombres de clientes, código,
+arquitecturas internas ni información propietaria.
+
+Mi experiencia incluye:
+
+* Desarrollo de aplicaciones web y móviles
+* Diseño y desarrollo de APIs REST y GraphQL
+* Arquitectura de aplicaciones empresariales
+* Sistemas multi-tenant
+* Autenticación y autorización
+* Integración de servicios externos
+* Diseño y optimización de bases de datos
+* Contenedores y despliegues
+* Mantenimiento y evolución de sistemas existentes
+* Automatización de procesos
+* Desarrollo orientado a dominios y módulos
+
+---
+
+## Tecnologías
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
 </p>
 
-### Mobile
+### Datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
-</p>
-
-### Databases & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
 ### Cloud & DevOps
@@ -62,131 +165,108 @@ Actualmente enfocado en **Full Stack Development, arquitectura de software e int
   <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,gitlab,linux" />
 </p>
 
-### Tools
+### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=reactnative,expo,flutter,dart" />
 </p>
 
 ---
 
-## 🧠 Architecture & Engineering
+## Ingeniería de software
+
+No me interesa únicamente que el código funcione.
+
+Me interesa construir sistemas que puedan **evolucionar, mantenerse y
+entenderse** con el paso del tiempo.
 
 ```text
-Clean Architecture
-Hexagonal Architecture
-Domain-Driven Design
-SOLID
-Design Patterns
-REST APIs
-GraphQL
-Microservices
-Multi-tenant SaaS
+Arquitectura limpia
+Diseño orientado al dominio
+Principios SOLID
+Patrones de diseño
+APIs REST / GraphQL
+Microservicios
+Sistemas multi-tenant
 RBAC
-Event-driven systems
+Row Level Security
 CI/CD
-Automated Testing
+Pruebas automatizadas
 ```
 
-### Patrones que utilizo
+### Patrones
 
-`Repository` · `Factory` · `Strategy` · `Observer` · `Adapter` · `Facade` · `Chain of Responsibility` · `Template Method`
-
----
-
-## 🤖 AI & Emerging Technologies
-
-Actualmente estoy profundizando en el desarrollo de soluciones con **Inteligencia Artificial**, especialmente en:
-
-* AI-powered applications
-* LLM integrations
-* AI agents
-* Developer tooling
-* Automation
-* AI-assisted software development
-* Sistemas inteligentes orientados a productos SaaS
+`Repository` · `Factory` · `Strategy` · `Observer` · `Adapter` · `Facade`
 
 ---
 
-## 🔭 Proyectos
+## Inteligencia Artificial
 
-### Suna
-
-Plataforma SaaS para **nutriólogos y entrenadores personales**, orientada a la gestión de clientes, planes de entrenamiento y nutrición.
-
-**Stack:** React Native · Expo · TypeScript · Zustand · NativeWind
-
----
-
-### Atlas Lab
-
-Plataforma SaaS multi-tenant para la gestión de laboratorios bajo procesos relacionados con **ISO/IEC 17025**.
-
-**Stack:** React · NestJS · Prisma · PostgreSQL · Redis · Docker
-
-**Conceptos:** Multi-tenancy · RLS · RBAC · DDD · Clean Architecture
-
----
-
-### Santrea Studios
-
-Desarrollo de soluciones digitales para empresas:
-
-* 🌐 Aplicaciones web
-* 📱 Aplicaciones móviles
-* 🛒 E-commerce
-* 🤖 Inteligencia Artificial
-* ⚙️ Software empresarial
-* 🚀 MVPs y productos SaaS
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zeika-coder&show_icons=true&hide_border=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeika-coder&layout=compact&hide_border=true"
-    height="170"
-  />
-</p>
-
----
-
-## 📈 What I care about
+Estoy especialmente interesada en la intersección entre
+**Inteligencia Artificial e Ingeniería de Software**.
 
 ```text
-Architecture      ████████████████████
-Clean Code        ████████████████████
-Scalability       ██████████████████░░
-Performance       ██████████████████░░
-Security          █████████████████░░░
-AI Engineering    █████████████████░░░
-UX / DX           ██████████████████░░
+LLM
+Agentes de IA
+Aplicaciones impulsadas por IA
+Herramientas para desarrolladores
+Automatización
+Desarrollo asistido por IA
+SaaS inteligente
 ```
 
-> I believe good software is not only about making things work,
-> but about making them maintainable, scalable and understandable.
+Mi objetivo es utilizar la IA donde realmente pueda aportar valor al
+producto, al usuario y al proceso de desarrollo.
 
 ---
 
-## 📫 Contact
+## Actualmente
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andrea-solorzano-dev/">
-    LinkedIn
-  </a>
-  ·
-  <a href="https://github.com/zeika-coder">
-    GitHub
-  </a>
-</p>
+|                   |                                                   |
+| ----------------- | ------------------------------------------------- |
+| 🔭 Construyendo   | Productos SaaS y soluciones impulsadas por IA     |
+| 🧠 Aprendiendo    | Inteligencia Artificial                           |
+| 🏗️ Profundizando | Arquitectura de Software                          |
+| ⚡ Explorando      | Agentes de IA y herramientas para desarrolladores |
+| 📚 Estudiando     | Ingeniería de Software e Inteligencia Artificial  |
 
 ---
 
-<p align="center">
-  <i>Building software. Learning continuously. Exploring AI.</i>
-</p>
+## GitHub
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=zeika-coder&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+height="165"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeika-coder&layout=compact&hide_border=true&langs_count=6"
+height="165"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Construyendo software con propósito.
+
+<br />
+
+<a href="https://www.linkedin.com/in/andrea-solorzano-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/zeika-coder">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<sub>Ingeniería de Software · SaaS · Inteligencia Artificial</sub>
+
+</div>
